@@ -39,7 +39,9 @@ def find_the_cheese(array)
   
 i = 0 
   while i < array.length
-  yield()
+ if collection.detect? == 
+   yield()
+ end
   i += 1 
 end
   
