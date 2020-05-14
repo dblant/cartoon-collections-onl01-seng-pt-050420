@@ -36,14 +36,15 @@ ingredients = ["garlic", "rosemary", "bread"]
 def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
   
+  array.detect
   
-i = 0 
-  while i < array.length
- if collection.detect? == 
-   yield()
- end
-  i += 1 
-end
+# i = 0 
+#   while i < array.length
+# if collection.detect? == 
+#   yield()
+# end
+#   i += 1 
+# end
   
   # array.include?(cheese_types)
     
