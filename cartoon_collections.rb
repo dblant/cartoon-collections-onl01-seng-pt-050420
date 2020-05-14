@@ -40,6 +40,8 @@ def find_the_cheese(array)
 i = 0 
   while i < array.length
   
+  i += 1 
+end
   
   # array.include?(cheese_types)
     
