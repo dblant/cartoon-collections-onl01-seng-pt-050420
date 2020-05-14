@@ -36,7 +36,7 @@ ingredients = ["garlic", "rosemary", "bread"]
 def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
   
-  array.detect {|i| i
+  array.detect {|i| i == chees_types.any?}
   
 # i = 0 
 #   while i < array.length
