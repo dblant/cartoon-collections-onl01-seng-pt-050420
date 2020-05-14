@@ -39,7 +39,7 @@ def find_the_cheese(array)
   
 i = 0 
   while i < array.length
-  
+  yield()
   i += 1 
 end
   
