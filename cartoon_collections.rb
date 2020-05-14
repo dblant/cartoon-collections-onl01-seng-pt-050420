@@ -39,7 +39,7 @@ def find_the_cheese(array)
    array.include?({|i| i == cheese_types.any?})
     
       
-    end
+    
        
     
   
