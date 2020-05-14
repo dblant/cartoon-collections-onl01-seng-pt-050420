@@ -38,21 +38,7 @@ def find_the_cheese(array)
   
   array.detect {|i| i == "cheddar" or i == "gouda" or i == "camembert"}
   
-# i = 0 
-#   while i < array.length
-# if collection.detect? == 
-#   yield()
-# end
-#   i += 1 
-# end
-  
-  # array.include?(cheese_types)
-    
-      
-    
-       
-    
-  
+
   
 end
 find_the_cheese(soup)
