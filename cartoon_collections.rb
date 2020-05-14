@@ -38,7 +38,7 @@ def find_the_cheese(array)
   
    array.include?(cheese_types.detect)
     if true 
-      # return this needs to be the value that is taken from enumerating array
+      
     end
        
     
